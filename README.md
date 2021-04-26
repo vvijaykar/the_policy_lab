@@ -8,4 +8,4 @@ Your task: As a first pass at this question, the Head of Data Science has asked 
 1. How many people live in Providence?
 2. How many people who are at least 65 years old live in Providence?
 3. How many people who are at least 65 years old live within one mile of Classical High School in Providence (called CLASSICAL in the data set)?
-4.What is the mean distance a resident of Providence who is at least 65 years old lives from their nearest school?
+4. What is the mean distance a resident of Providence who is at least 65 years old lives from their nearest school?
